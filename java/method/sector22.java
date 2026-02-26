@@ -1,0 +1,15 @@
+class tester{
+public static double area()
+	{
+	int r=8;
+	double theta = 45;
+	double res=.5*r*r*theta;
+	return res;
+	}}
+class sector22
+{
+	public static void main (String args[]){
+		double x=tester.area();
+		System.out.println(x);
+		
+}}

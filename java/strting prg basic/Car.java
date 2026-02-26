@@ -1,0 +1,10 @@
+class Car
+{
+	public static void main(String[] args) 
+	{
+		String car_name="Suzuki";
+		int car_cost=600000;
+		String car_type="petrol";
+			System.out.println("Car name is "+car_name+" "+"Car cost is"+ " " +car_cost+" "+"Car type is "+car_type);
+	}
+}

@@ -1,0 +1,6 @@
+class squaree {
+public void area(int a){
+double res=a*a;
+System.out.println( res);}
+public static void main(String args[]){
+new squaree( ).area(4);}}

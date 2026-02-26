@@ -1,0 +1,13 @@
+class Sectorr{
+void area( )
+{
+	int r=5;
+	int theta=50;
+
+double res=0.5*r*r*theta;
+System.out.println(res);
+}
+public static void main(String args[])
+{
+new Sectorr().area();
+}}

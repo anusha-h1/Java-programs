@@ -1,0 +1,14 @@
+class sector 
+{
+	public static void sec( ) 
+		
+	{
+		int r=6;
+		int theta=7;
+		double area=0.5*(r*r)*theta;
+		System.out.println(area);}
+		public static void main(String args[]){
+		sec();
+		
+	}
+}

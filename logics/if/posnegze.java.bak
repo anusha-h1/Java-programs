@@ -1,0 +1,11 @@
+class posnegze {
+public static void main(String arge[]){
+int a=66;
+if(a>0)
+System.out.println("positive");
+if(a==0)
+	System.out.println("zero");
+else
+	System.out.println("negative");
+	
+}}

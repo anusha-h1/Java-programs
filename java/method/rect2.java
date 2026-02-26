@@ -1,0 +1,16 @@
+class rect2
+{
+	public static float par( ) 
+		
+	{
+		int b=4;
+		int h=5;
+		
+		float area=b*h;
+		return area;}
+		public static void main(String args[]){
+		float x=(par());
+		System.out.println(x);
+		
+	}
+}

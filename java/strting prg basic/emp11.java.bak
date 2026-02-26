@@ -1,0 +1,12 @@
+class emp11
+{
+	int emp_id=35278;
+		int emp_sal=80000;
+		char emp_grade='B';
+	public static void main(String[] args) 
+	{
+		
+		System.out.println("Employee id is "+emp_id+"\tEmployee salary is "+emp_sal+"\tEmployee grade is "+
+			emp_grade);
+	}
+}

@@ -1,0 +1,6 @@
+class threedig {
+public static void main(String args[]){
+int a=233;
+if(a>99 && a<999)
+System.out.println("three digit");
+}}

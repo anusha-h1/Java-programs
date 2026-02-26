@@ -1,0 +1,8 @@
+class two {
+public static void main(String arge[]){
+int a=20;
+if(a%2==0)
+System.out.println("div by 2");
+else 
+	System.out.println("not div by 2")
+}}

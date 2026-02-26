@@ -1,0 +1,11 @@
+class Mobile
+{
+
+	public static void main(String[] args) 
+	{
+		int mob_cost=20000;
+		String mob_name="Samsung";
+		String mob_color="Black";
+		System.out.println("Mobile name is:"+mob_name +" "+ " Mobile cost is "+ mob_cost+" "+" Mobile color is "+mob_color );
+	}
+}
