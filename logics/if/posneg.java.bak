@@ -1,9 +1,0 @@
-class posneg {
-public static void main(String arge[]){
-int a=233;
-if(a>0)
-System.out.println("positive");
-else
-	System.out.println("negative");
-	
-}}
