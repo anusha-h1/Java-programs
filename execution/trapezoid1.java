@@ -1,0 +1,12 @@
+class trapezoid {
+    public double area(int a, int b, int h) {
+        double result = 0.5 * (a + b) * h;
+        return result;
+    }
+
+    public static void main(String args[]) {
+        Trapezoid t1 = new Trapezoid();
+       double res = t1.area(10, 8, 5);
+        System.out.println("Area of Trapezoid = " + res);
+    }
+}
